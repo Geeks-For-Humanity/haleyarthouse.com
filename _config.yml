@@ -1,0 +1,11 @@
+include:
+  - ".well-known"
+plugins:
+  - jekyll-seo-tag
+layout: post
+title: "Haley Art House"
+description: "Art!"
+url: "https://HaleyArtHouse.com"
+image: "/HaleyArtHouse.PNG"
+logo: "/HaleyArtHouse.PNG"
+alt: "Haley Art House Logo"
