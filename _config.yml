@@ -1,7 +1,5 @@
 include:
   - ".well-known"
-plugins:
-  - jekyll-seo-tag
 layout: post
 title: "Haley Art House"
 description: "Art!"
