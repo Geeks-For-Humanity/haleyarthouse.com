@@ -1,7 +1,12 @@
 {
+  "site_name": "React landing page",
+  "title": "React landing page template 2021",
+  "description": "Production ready plug n play landing page!",
+  "locale": "en",
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "Haley Art House",
+    "legalName": "Geeks for Humanity, LLC, dba Haley Art House",
+    "logo": "/assets/images/HaleyArtHouse.PNG"
   },
   "navigation": [
     {
